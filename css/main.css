@@ -1,0 +1,15 @@
+body {
+  font-family: 'Arvo', serif;
+}
+
+h2 {
+font-size: 24px;
+}
+
+li {
+  font-style: normal;
+}
+
+#file {
+  font-style: oblique;
+}
